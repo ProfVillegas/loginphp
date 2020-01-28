@@ -11,8 +11,8 @@ define('DB_NAME', 'misc');
 define('DB_USER_TBL', 'users');
  
 // Facebook API configuration
-define('FB_APP_ID', '732102043984490'); // Replace {app-id} with your app id
-define('FB_APP_SECRET', '45e6f5b1e8eeedab04d85e6512533d1a'); // Replace {app-secret} with your app secret
+define('FB_APP_ID', '---------------'); // Replace {app-id} with your app id
+define('FB_APP_SECRET', '--------------'); // Replace {app-secret} with your app secret
 define('FB_REDIRECT_URL', 'https://localtest.me/sm_01/fbphp/responde.php');
 
 // Start session
